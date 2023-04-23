@@ -1,0 +1,50 @@
+.intro {
+  text-align: left;
+  width: 80%;
+  margin: 100px auto;
+  padding: 20px;
+  border-radius: 10px;
+  border: 8px solid rgb(51, 255, 0);
+}
+
+.hello {
+  color: rgba(255, 255, 0, 0.886);
+  font-size: 2.5rem;
+  margin-bottom: 5px;
+}
+
+.Name {
+  color: greenyellow;
+  font-size: 2.5rem;
+  margin-top: 12px;
+}
+
+.summary {
+  color: azure;
+  font-size: 1.3rem;
+}
+
+@media only screen and (max-width: 767px) {
+  .intro {
+    width: 90%;
+    margin: 50px auto;
+    margin-top: 100px;
+    text-align: center;
+  }
+}
+
+.CV {
+  color: rgb(2, 2, 24);
+  background-color: rgba(255, 255, 0, 0.886);
+  font-weight: bold;
+  border: none;
+  height: 30px;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.CV:hover {
+    background-color: yellowgreen;
+    }
