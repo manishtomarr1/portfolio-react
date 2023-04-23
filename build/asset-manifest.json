@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3297587e.css",
+    "main.js": "/static/js/main.0c83240c.js",
+    "static/media/mscafe.png": "/static/media/mscafe.b52d13fbf01c63f08629.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/portfolio.png": "/static/media/portfolio.8d720a41ef8b4d487aa3.png",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/todolist.png": "/static/media/todolist.cc70994195e4d56b5323.png",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/expense tracker.png": "/static/media/expense tracker.f88ee828c833e5b56bd1.png",
+    "static/media/Manish-Tomar-Resume.pdf": "/static/media/Manish-Tomar-Resume.ce3e7a380449eb273d48.pdf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/index.html",
+    "main.3297587e.css.map": "/static/css/main.3297587e.css.map",
+    "main.0c83240c.js.map": "/static/js/main.0c83240c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3297587e.css",
+    "static/js/main.0c83240c.js"
+  ]
+}
